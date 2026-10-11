@@ -15,7 +15,7 @@ label{display:block;font-size:12px;color:var(--muted);font-weight:600}label inpu
 .pad{padding:20px}.muted{color:var(--muted)}
 /* header */
 .top{position:sticky;top:0;z-index:10;display:flex;align-items:center;gap:24px;padding:10px 24px;background:linear-gradient(90deg,var(--navy),var(--navy2));color:#fff}
-.brand{display:flex;align-items:center;gap:10px}.brand img{height:36px}.logo{width:36px;height:36px;border-radius:9px;background:var(--teal);display:grid;place-items:center;font-weight:800;font-size:18px;color:#fff}
+.brand{display:flex;align-items:center;gap:10px}.brand img{height:38px;background:#fff;border-radius:8px;padding:3px 6px}.logo{width:36px;height:36px;border-radius:9px;background:var(--teal);display:grid;place-items:center;font-weight:800;font-size:18px;color:#fff}
 .bn{font-weight:700;font-size:15px}.bs{font-size:11px;opacity:.75;letter-spacing:.3px}
 .top nav{display:flex;gap:4px;flex:1}.top nav a{color:#dfe7f5;padding:7px 12px;border-radius:8px}.top nav a small{color:#9fb0cc}
 .top nav a.on,.top nav a:hover{background:rgba(255,255,255,.12);color:#fff;text-decoration:none}

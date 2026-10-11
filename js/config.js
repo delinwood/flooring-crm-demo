@@ -4,9 +4,9 @@
 window.CRM_CONFIG = {
   MODE: 'demo',
   COMPANY_NAME_EN: 'DELIN WOOD INDUSTRY (SHANDONG) CO., LTD.',   // TODO: 公司英文名
-  COMPANY_NAME_CN: 'DELIN 外贸部',               // TODO: 公司中文名
+  COMPANY_NAME_CN: '德林木业 外贸部',               // TODO: 公司中文名
   COMPANY_WEBSITE: '',                           // TODO: 官网，用于开发信签名 {{my_website}}
-  LOGO_URL: '',                                  // TODO: e.g. 'assets/logo.png'
+  LOGO_URL: 'assets/logo.png',                                  // TODO: e.g. 'assets/logo.png'
   SUPABASE_URL: '',                              // e.g. 'https://xxxx.supabase.co'
   SUPABASE_ANON_KEY: '',                         // public anon key (safe in frontend; RLS protects data)
   USERNAME_EMAIL_DOMAIN: 'crm.example.com'       // 用户名 -> 登录邮箱 映射: sales1 -> sales1@crm.example.com
